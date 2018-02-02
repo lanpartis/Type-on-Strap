@@ -6,4 +6,5 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About]
 ---
 
-Hi there. I'm Feather Jiao, a student of Osaka University persuing my masters in Artificial Intelligence and Human Robot Interaction.
+Hi there. I'm Feather Jiao.
+After getting my bachelor's degree of Computer Science in Beijing University of Posts and Telecommunications, I am now pursuing my Masters in Artificial Intelligence and Human Robot Interaction in Osaka University, Japan.
