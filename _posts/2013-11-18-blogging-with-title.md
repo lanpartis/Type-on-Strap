@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blogging with title
-tags: [Test, Ipsum, Markdown, Portfolio]
+title: Learn to build a blog with Jekyll on Github Pages
+tags: [Jekyll]
 ---
 
 # I am a BIG title
