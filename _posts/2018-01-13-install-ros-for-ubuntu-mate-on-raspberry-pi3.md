@@ -33,7 +33,6 @@ source ~/.bashrc
 For Python3 to use ROS
 ```shell
 pip3 install pyyaml rospkg catcin_pkg
-
 ```
 To use rosserial to control Arduino
 ```shell
