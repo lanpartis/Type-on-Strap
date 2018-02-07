@@ -4,7 +4,7 @@ title:  Install ROS for Ubuntu Mate on Raspberry Pi 3
 tags: [Ubuntu,Raspberry Pi,ROS]
 ---
 
-**Need:**
+**Requirement:**
 
 Raspberry just flashed with [Ubuntu Mate](https://ubuntu-mate.org/download/) image.
 
