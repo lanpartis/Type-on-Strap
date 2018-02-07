@@ -6,7 +6,7 @@ url: "https://lanpartis.github.io"
 theme_settings:
   # Meta
   title: J's HEYA
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/jiao.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -19,7 +19,7 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> theme
 
   # Icons
-  rss: 
+  rss:
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
