@@ -1,17 +1,23 @@
 ---
 layout: post
 title:  Install ROS for Ubuntu Mate on Raspberry Pi 3
-categories: Study
 tags: [Ubuntu,Raspberry Pi,ROS]
 ---
 
-Install ros for ubuntu mate on raspberry pi
+**Need:**
 
-System -> Administration -> Software & Updates
+Raspberry just flashed with [Ubuntu Mate](https://ubuntu-mate.org/download/) image.
+
+**First:**
+
+Go to System -> Administration -> Software & Updates
+make following chechboxes cheched:
 main,restricted,universe,and multiverse
-Terminal:
-```shell
 
+**Then**:
+
+Go to Terminal:
+```shell
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 wget http://packages.ros.org/ros.key -O - | sudo apt-key add -
 sudo apt-get update
@@ -22,14 +28,14 @@ echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-for python3 to use ros
+**Extra:**
 
+For Python3 to use ROS
 ```shell
 pip3 install pyyaml rospkg catcin_pkg
 
 ```
-
-to use rosserial
+To use rosserial to control Arduino
 ```shell
 sudo apt-get install ros-indigo-rosserial-arduino
 sudo apt-get install ros-indigo-rosserial
