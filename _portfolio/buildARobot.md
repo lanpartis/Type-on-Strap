@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build a human sized robot for interaction
+title: Build a human size robot for interaction
 feature-img: "assets/img/portfolio/ttt.png"
 img: "assets/img/portfolio/ttt.png"
 date: 2017-12-15
