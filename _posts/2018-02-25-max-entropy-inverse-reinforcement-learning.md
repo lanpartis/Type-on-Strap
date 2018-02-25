@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Max Entropy Inverse Reinforcement Learning
+title: Maximum Entropy Inverse Reinforcement Learning
 category: Deep Learning
 tags: [Inverse Reinforcement Learning]
 ---
