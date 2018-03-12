@@ -4,7 +4,6 @@ title: Tricks of GANS
 category: Deep Learning
 tags: [GAN]
 ---
-# How to Train a GAN? Tips and tricks to make GANs work
 
 While research in Generative Adversarial Networks (GANs) continues to improve the
 fundamental stability of these models,
