@@ -6,7 +6,7 @@ tags: [Ubuntu,Raspberry Pi,ROS]
 
 **Requirement:**
 
-Raspberry just flashed with [Ubuntu Mate](https://ubuntu-mate.org/download/) image.
+Raspberry Pi just flashed with [Ubuntu Mate](https://ubuntu-mate.org/download/) image.
 
 **First:**
 
