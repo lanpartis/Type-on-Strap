@@ -36,6 +36,6 @@ pip3 install pyyaml rospkg catkin_pkg
 ```
 To use rosserial to control Arduino
 ```shell
-sudo apt-get install ros-indigo-rosserial-arduino
-sudo apt-get install ros-indigo-rosserial
+sudo apt-get install ros-kinetic-rosserial-arduino
+sudo apt-get install ros-kinetic-rosserial
 ```
