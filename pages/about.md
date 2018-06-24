@@ -15,4 +15,4 @@ After getting my bachelor's degree of Computer Science in Beijing University of 
 
 Email: yongcheng.jiao@irl.sys.es.osaka-u.ac.jp
 
-In case I am in China, Email2: 1192499589@qq.com
+In case I am in China, Email2: nagi_feather_j@yahoo.com 
