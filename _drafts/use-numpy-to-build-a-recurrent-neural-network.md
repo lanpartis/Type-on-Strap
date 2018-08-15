@@ -4,7 +4,7 @@ title: Use numpy to build recurrent neural networks
 category: Deep Learning
 tags: [Numpy, RNN]
 ---
-Though we can directly use RNN modules from deep learning libraries such as Keras, Pytorch, it is still worth your effort to do with these tensor calculations in detail. By doing so we strength our understanding of its forward/backward propagation. We will find this experience very useful when we start to construct DNNs, to play with hyperparameters or troubleshooting.
+Though we can directly use RNN modules from deep learning libraries such as Keras, Pytorch, it is still worth your effort to do with these tensor calculations in detail. By doing so we strength our understanding of its forward/backward propagation. We will find this experience very useful when we start to construct DNNs, play with hyper parameters or troubleshooting.
 
 This tutorial is basically following Andrew NG's online course **Sequence Models** on coursera.
 
