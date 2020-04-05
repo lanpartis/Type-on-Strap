@@ -1,8 +1,8 @@
 ---
 layout: post
-title:《百面机器学习》笔记
+title: "《百面机器学习》笔记"
 category: Machine Learning
-tags:[Machine Learning]
+tags: [Machine Learning]
 ---
 ## Chapter 1
 

@@ -4,7 +4,8 @@
 # Byte-compiled / optimized / DLL files
 *.manifest
 *.spec
-
+.jekyll-cache
+.jekyll-metadata
 
 _site/**
 _site
